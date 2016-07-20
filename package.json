@@ -1,0 +1,27 @@
+{
+  "name": "pokemongonlinebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Michael Danilov",
+    "email": "michael@danilov.me",
+    "url": "https://danilov.me/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "is-pokemon-go-up": "^1.0.0",
+    "node-telegram-bot-api": "^0.23.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelDanilov/pokemongonlinebot"
+  },
+  "bugs": {
+    "url": "https://github.com/MichaelDanilov/pokemongonlinebot/issues"
+  },
+  "homepage": "https://github.com/MichaelDanilov/pokemongonlinebot"
+}
